@@ -10,16 +10,16 @@
     <link name="camera_link">
         <visual>
             <geometry>
-                <box size="0.10 0.023 0.020"/>
+                <box size="0.023 0.10 0.020"/>
             </geometry>
             <material name="red"/>
         </visual>
         <collision>
             <geometry>
-                <box size="0.10 0.023 0.020"/>
+                 <box size="0.023 0.10 0.020"/>
             </geometry>
         </collision>
-        <xacro:inertial_box mass="0.063" x="0.10" y="0.023" z="0.020">
+        <xacro:inertial_box mass="0.063" x="0.023" y="0.10" z="0.020">
             <origin xyz="0 0 0" rpy="0 0 0"/>
         </xacro:inertial_box>
     </link>
