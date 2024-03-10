@@ -1,0 +1,36 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/parallels/robot_ws/install/serial_motor_demo/lib/python3.10/site-packages",
+        "/home/parallels/robot_ws/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages",
+        "/home/parallels/bookros2_ws/install/urdf_test/local/lib/python3.10/dist-packages",
+        "/home/parallels/bookros2_ws/install/tiago_description/local/lib/python3.10/dist-packages",
+        "/home/parallels/bookros2_ws/install/pmb2_description/local/lib/python3.10/dist-packages",
+        "/home/parallels/bookros2_ws/build/launch_pal",
+        "/home/parallels/bookros2_ws/install/launch_pal/lib/python3.10/site-packages",
+        "/home/parallels/bookros2_ws/install/br2_tracking_msgs/local/lib/python3.10/dist-packages",
+        "/home/parallels/bookros2_ws/build/br2_fsm_bumpgo_py",
+        "/home/parallels/bookros2_ws/install/br2_fsm_bumpgo_py/lib/python3.10/site-packages",
+        "/home/parallels/ros2_ws/install/twist_stamper/lib/python3.10/site-packages",
+        "/home/parallels/ros2_ws/install/joy_tester/lib/python3.10/site-packages",
+        "/home/parallels/ros2_ws/install/ball_tracker/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/parallels/robot_ws/install/serial_motor_demo/lib/python3.10/site-packages",
+        "/home/parallels/robot_ws/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages",
+        "/home/parallels/bookros2_ws/install/urdf_test/local/lib/python3.10/dist-packages",
+        "/home/parallels/bookros2_ws/install/tiago_description/local/lib/python3.10/dist-packages",
+        "/home/parallels/bookros2_ws/install/pmb2_description/local/lib/python3.10/dist-packages",
+        "/home/parallels/bookros2_ws/build/launch_pal",
+        "/home/parallels/bookros2_ws/install/launch_pal/lib/python3.10/site-packages",
+        "/home/parallels/bookros2_ws/install/br2_tracking_msgs/local/lib/python3.10/dist-packages",
+        "/home/parallels/bookros2_ws/build/br2_fsm_bumpgo_py",
+        "/home/parallels/bookros2_ws/install/br2_fsm_bumpgo_py/lib/python3.10/site-packages",
+        "/home/parallels/ros2_ws/install/twist_stamper/lib/python3.10/site-packages",
+        "/home/parallels/ros2_ws/install/joy_tester/lib/python3.10/site-packages",
+        "/home/parallels/ros2_ws/install/ball_tracker/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

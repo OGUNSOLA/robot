@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/parallels/robot_ws/install/serial_motor_demo_msgs/include/**",
+        "/home/parallels/bookros2_ws/install/br2_tracking/include/**",
+        "/home/parallels/bookros2_ws/install/br2_tracking_msgs/include/**",
+        "/home/parallels/bookros2_ws/install/br2_bt_patrolling/include/**",
+        "/home/parallels/bookros2_ws/install/br2_bt_bumpgo/include/**",
+        "/home/parallels/ros2_ws/install/serial/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/parallels/robot_ws/src/diffdrive_arduino/include/**",
+        "/home/parallels/robot_ws/src/serial/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
