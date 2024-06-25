@@ -13,8 +13,8 @@ def generate_launch_description():
             executable='realsense2_camera_node',
             output='screen',
             namespace='camera',
-            parameters=[{
-                'camera_frame_id': 'camera_link_optical',
-                }]
+            # parameters=[{
+            #     'camera_frame_id': 'camera_link_optical',
+            #     }]
     )
     ])
